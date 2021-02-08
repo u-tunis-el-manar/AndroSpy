@@ -7,6 +7,8 @@ Yes, It is supporting dns connection like no-ip or duckdns or dynu......
 
 Your Visual Studio must have Xamarin Developing Kit, otherwise you can't build client. If you have Xamarin Kit then you must put path of some .exe in Settings window of AndroSpy and copy the all files of Client project to "ProjectFolder" path in SV project (\SV\bin\Debug\resources\ProjectFolder)  
 
+<img src="https://user-images.githubusercontent.com/45147475/107262779-05142180-6a52-11eb-932e-492b5deef531.PNG" width="45%"></img>  
+
 <img src="https://user-images.githubusercontent.com/45147475/107190577-01ee4680-69fc-11eb-9da3-2088a35e4696.PNG" width="45%"></img>  
 
 I'm very busy; I can't answer immediately for your issue.  
